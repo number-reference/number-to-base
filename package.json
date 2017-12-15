@@ -1,0 +1,25 @@
+{
+  "name": "number-to-base",
+  "version": "1.0.0",
+  "description": "Convert number to different numerical system.  Supports 35 bases.  No dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/number-reference/number-to-base.git"
+  },
+  "keywords": [
+    "base",
+    "conversion",
+    "decimal",
+    "number"
+  ],
+  "author": "Liam Norris",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/number-reference/number-to-base/issues"
+  },
+  "homepage": "https://github.com/number-reference/number-to-base#readme"
+}
